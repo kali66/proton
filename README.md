@@ -3,7 +3,7 @@
 - JDK 21 or later
 - Maven 3 or later
 - MySQL 5.6 or later
-#changes
+#changes in the house of flies
 # Technologies
 - Spring MVC
 - Spring Security
