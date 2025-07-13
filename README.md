@@ -1,6 +1,6 @@
 # Prerequisites
 #
-- JDK 21 or later
+- JDK 22t or later
 - Maven 3 or later
 - MySQL 5.6 or later
 #changes in the house of flies
